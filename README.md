@@ -25,7 +25,7 @@ This is a simple BMI (Body Mass Index) calculator implemented using HTML, CSS, a
 
 ![BMI Calculator Preview](preview.png)
 
-- [Demo](https://zoro2045.github.io/BMI_Calculator/).
+- [Demo](https://zoro2045.github.io/BMI_Calculator/)
 
 ## Author
 
